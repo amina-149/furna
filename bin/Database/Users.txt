@@ -1,0 +1,3 @@
+fahad,fahad@mail.com,fahad
+amina,amina@gmail.com,1234
+abcd,abcd@gmail.com,abcd
